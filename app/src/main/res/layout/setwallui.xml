@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#383636">
+
+
+    <Button
+        android:id="@+id/homesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:paddingTop="10dp"
+        android:paddingLeft="7dp"
+        android:text="HOME SCREEN"
+        android:gravity="left"
+        android:background="#383636"/>
+
+    <Button
+        android:id="@+id/locksc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="7dp"
+        android:textColor="#ffffff"
+        android:paddingTop="10dp"
+        android:text="LOCK SCREEN"
+        android:gravity="left"
+        android:background="#383636"/>
+
+        <Button
+            android:id="@+id/homelocksc"
+            android:paddingTop="10dp"
+            android:paddingLeft="7dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:layout_marginBottom="-5dp"
+            android:text="HOME SCREEN + LOCK SCREEN"
+            android:gravity="left"
+            android:background="#383636"/>
+
+
+
+
+</LinearLayout>

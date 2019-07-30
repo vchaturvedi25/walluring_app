@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "742582065888",
+    "firebase_url": "https://walluring.firebaseio.com",
+    "project_id": "walluring",
+    "storage_bucket": "walluring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742582065888:android:86782bd0d7d920ef",
+        "android_client_info": {
+          "package_name": "com.example.vishal.walluring_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742582065888-ecgrmg1b5qel7ft0p5mi1fjggaf4qtjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vishal.walluring_app",
+            "certificate_hash": "4add370c0840fdfa2cd4e7c6960409f8e8b3afad"
+          }
+        },
+        {
+          "client_id": "742582065888-mnaefa9rlvrm3icqgla6dl0h764135ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEqPTk-QAEv08XuaKt-NU3NJaAe1PwOP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742582065888-mnaefa9rlvrm3icqgla6dl0h764135ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

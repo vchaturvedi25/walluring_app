@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">WALLURING</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_favourites">Favourites</string>
+    <string name="nav_settings">Settings</string>
+
+</resources>
